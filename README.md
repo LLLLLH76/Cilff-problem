@@ -12,7 +12,7 @@ Q-learning, Sarsa, n-step Sarsa, Sarsa(lambda) in a 4x12 grid world cliff walkin
 ## How to run
 
 - Set the `mode` in `main` as `Qlearning_Sarsa_comparison / Nstep_Sarsa / Sarsa_Lambda` ro run different tasks.
-- Set `episode_num` 与 `rounds` in line 189, 190 to determine the number of episodes and iterations.
+- Set `episode_num` and `rounds` in line 189, 190 to determine the number of episodes and iterations.
 
 ## Results
 
